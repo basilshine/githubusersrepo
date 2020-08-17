@@ -1,0 +1,8 @@
+const REQUEST_STATUS = {
+  IDLE: 'IDLE',
+  IN_PROGRESS: 'IN_PROGRESS',
+  SUCCESS: 'SUCCESS',
+  ERROR: 'ERROR'
+};
+
+export default REQUEST_STATUS;
